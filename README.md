@@ -8,4 +8,9 @@ merge1 conflict
 
 merge2 coflict
 searchFilters
+ searchFilters
  search in browser 2
+
+
+different browser1
+ main
